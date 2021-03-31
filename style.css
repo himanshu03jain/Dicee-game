@@ -1,0 +1,27 @@
+.container-fluid{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+ 
+}
+body{
+    background-color: darkslateblue;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6rem;
+    color: darkturquoise;
+}
+p{
+  font-size: 2rem;
+  font-family: cursive;
+  color: rgb(49, 47, 47);
+}
+img{
+    width: 80%;
+}
